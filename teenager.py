@@ -1,2 +1,2 @@
 class teenager:
-    print("Hello teacher")
+    print("Hi teacher")
